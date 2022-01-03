@@ -33,7 +33,7 @@ Class is called TMC_Normal_Countdown and inherets from TMC_Monobehaviour
 | public | UnityEngine.UI | Image | background | The image component that is the background image for the countdown |
 | public | System | int | StartAt | The number that the countdown starts at |
 | public | System | int | FinishAt | The number that the countdown Finishes at |
-| ------ | ----------------- | ----------------- | -------------------- | ------------------------------------------- |
+| ------ | ---------------- | ----------------- | -------------------- | ------------------------------------------- |
 | private | UnityEngine | GameObject | TextObj | The gameObject that Text is attached to |
 | private | UnityEngine | GameObject | backgroundObj | The gameObject that the background is attached to |
 | private | System | int | ToDisplay | The number that is currently being shown as text |
