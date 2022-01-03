@@ -1,13 +1,15 @@
-<font size = "6"> Normal Countdown Technical Documentation </font>
+# Normal Countdown Technical Documentation </font>
 
 ---
 
-<font size = "5"> Functions </font>
+## Class Descriptions
+
+### Parent Class
 
 Class is called TMC_Normal_Countdown and inherets from TMC_Monobehaviour 
 (TMC_Monobehaviour supports the when to start and custom GUI)
 
-<font size = "4"> Functions </font>
+### Functions
 
 | Scope | Return Value | Name | Paramaters | Description |
 | - | - | - | - | - |
@@ -21,7 +23,7 @@ Class is called TMC_Normal_Countdown and inherets from TMC_Monobehaviour
 
 
 
-<font size = "4"> Variables </font>
+### Variables
 
 | Scope | namespace | Data Type | Name | Description |
 | - | - | - | - | - |
